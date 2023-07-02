@@ -1,4 +1,4 @@
-### 👋 About Me
+# 👋 About Me
 
 Hi there, I'm Val! I'm a Board Certified Behavior Analyst turned Software Developer, currently in the final phase of the Software Engineering bootcamp at the Flatiron School.
 
@@ -12,7 +12,7 @@ Motivated by a desire for limitless growth, I made the decision to jump into sof
 - 🎥 Netflix
 - 🚗 Lyft
 
-# 🧠 I am itching to apply my behavior analytic brain to create innovative software solutions using:
+### 🧠 I am itching to apply my behavior analytic brain to create innovative software solutions using:
 - ☕️ JavaScript
 - 🔹 React
 - 🐍 Python
