@@ -3,7 +3,7 @@
 Hi there, I'm Val! I'm a Board Certified Behavior Analyst turned Software Developer!
 
 ### 👩🏽‍🏫 Professional Background
-With over four years of experience in behavior analytics, I leveraged my passion for understanding behavior and utilizing data insights to find creative solutions to influence people to work effectively and adapt to change. This role taught me the importance of attention to detial, a growth mindset, and the power of building interpersonal relationships. 
+With over four years of experience in behavior analytics, I leveraged my passion for understanding behavior and utilizing data insights to find creative solutions to influence people to work effectively and adapt to change. This role taught me the importance of attention to detail, a growth mindset, and the power of building interpersonal relationships. 
 
 ### 🚀 Transition to Software Engineering
 Motivated by a desire for limitless growth, I made the decision to jump into software development. I am elbow deep in programming languages and frameworks that are staples in big name companies like:
