@@ -55,28 +55,28 @@ I'm eager to connect with software and technology professionals, collaborate on 
     <td class="tg-0pky">Happy Trails</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=g_8xGVR43OQ" target="_blank" rel="noopener noreferrer">Demo</a><br><br><span style="font-weight:400;font-style:italic">Hiking trails app facilitating users to find suitable hikes.</span></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://github.com/vcali02/Happy_Trails" target="_blank" rel="noopener noreferrer">Repo</a><br><br></td>
+    <td class="tg-0pky"><a href="https://github.com/vcali02/Happy_Trails" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-React<br>-Python<br>-Flask<br>-Material UI<br>-CSS</td>
     <td class="tg-0pky"><br><span style="font-weight:400;font-style:normal">-User can make an account, log in, and log out</span><br>-Users can search for trails to hike based on location and user preferences<br><span style="font-weight:400;font-style:normal">-User can mark trails as "Hiked"</span><br><span style="font-weight:400;font-style:normal">-Users can view information about each trail</span><br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Micelio</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=HWcm-QKDm5g" target="_blank" rel="noopener noreferrer">Demo</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Personal growth app enabling users to identify and pursue areas of development.</span></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://github.com/vcali02/micelio" target="_blank" rel="noopener noreferrer">Repo</a><br></td>
+    <td class="tg-0pky"><a href="https://github.com/vcali02/micelio" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-React<br>-Python<br>-Flask<br>-Material UI<br>-CSS<br></td>
     <td class="tg-0pky">- User can explore the four pillars of expansion<br>- User can explore methods for expansion<br>- User can navigate home<br>- User can explore recommended stimuli<br>- User can learn about Micelio<br>- User can create an account, log in and out</td>
   </tr>
   <tr>
     <td class="tg-0pky">Smash or Trash</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=7v81tOzrDYk" target="_blank" rel="noopener noreferrer">Demo</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Movie app for users to view, review, and set favorite movies.</span></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://github.com/dxyz773/smash-or-trash" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky"><a href="https://github.com/dxyz773/smash-or-trash" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-CSS<br></td>
     <td class="tg-0pky">-User can click the movie poster to display movie details <br>-User can double click the like to add a like<br>-User can double click the dislike to add a dislike<br>-User can submit a favorite movie to the page using a form<br>-User can add a comment to a movie </td>
   </tr>
   <tr>
     <td class="tg-0pky">Forage</td>
     <td class="tg-0pky"><span style="font-style:italic">Recipe app for people in need of inspiration and dietary restrictions.</span></td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"><a href="https://github.com/vcali02/Forage_01" target="_blank" rel="noopener noreferrer">Repo</a><br></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://github.com/vcali02/Forage_01" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-React<br>-CSS<br></td>
     <td class="tg-0pky">-User can search recipes by ingredients<br>-User can filter an advance search by dietary specifications<br>-User can add and remove recipes from "My Recipes"<br>-User can add their own recipe using a form</td>
   </tr>
 </tbody>
