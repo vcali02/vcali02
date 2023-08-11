@@ -6,10 +6,7 @@ With over four years of experience in behavior analytics, I leveraged my passion
 
 ### 🚀 Why Software Engineering
 Motivated by a desire for limitless growth, I made the decision to jump into software development. I am elbow deep in programming languages and frameworks that are staples in big name companies like:
-- 📱 Meta
-- 🌎 Airbnb
-- 🎥 Netflix
-- 🚗 Lyft
+- 📱 Meta - 🌎 Airbnb - 🎥 Netflix - 🚗 Lyft
 
 ### 🧠 I am excited to use my background in behavior analytics to create innovative software solutions using:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -22,3 +19,10 @@ I also graduated with a Masters Degree in Behavior Analytics from Arizona State 
 I'm eager to connect with software and technology professionals, collaborate on exciting projects, and continue growing in ways I never imagined possible. 
 
 ### ✨Let's connect and explore opportunities together!
+
+| Project             | Description | Image         | Tech Stack       |   Features    |
+|------------------------|--------|--------------|----------------------------------|-----|
+|Happy Trails|Hiking trails app facilitating users to find suitable hikes| ![happy_trails](https://github.com/vcali02/vcali02/assets/122405969/3cf9947d-a722-4aaf-925a-dbcc8d193d0a) |<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> |    |
+|              |     |              |               |
+|             |    |  |           |
+|             |     |              |        |
