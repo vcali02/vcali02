@@ -71,7 +71,7 @@ I'm eager to connect with software and technology professionals, collaborate on 
   <tr>
     <td class="tg-0pky">Smash or Trash</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=7v81tOzrDYk" target="_blank" rel="noopener noreferrer">Demo</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Movie app for users to view, review, and set favorite movies.</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"> <img src="happy_trails.png" /></td>
     <td class="tg-0pky"><a href="https://github.com/dxyz773/smash-or-trash" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-CSS<br></td>
     <td class="tg-0pky">-User can click the movie poster to display movie details <br>-User can double click the like to add a like<br>-User can double click the dislike to add a dislike<br>-User can submit a favorite movie to the page using a form<br>-User can add a comment to a movie </td>
   </tr>
