@@ -28,7 +28,8 @@ I'm eager to connect with software and technology professionals, collaborate on 
 
 | Project        | Description                                                         | Image           | Tech Stack                                       | Features                                                                                                      |
 |----------------|---------------------------------------------------------------------|-----------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Happy Trails   |  Hiking trails app facilitating users to find suitable hikes.|[Demo](https://www.youtube.com/watch?v=g_8xGVR43OQ)  ![happy_trails](https://github.com/vcali02/vcali02/assets/122405969/8acf48c5-3062-4055-8fc7-7c685c616dc2)|[Repo](https://github.com/vcali02/Happy_Trails) 
+| Happy Trails   |  Hiking trails app facilitating users to find suitable hikes.|[Demo](https://www.youtube.com/watch?v=g_8xGVR43OQ)  ![happy_trails](https://github.com/vcali02/vcali02/assets/122405969/8acf48c5-3062-4055-8fc7-7c685c616dc2)|
+[Repo](https://github.com/vcali02/Happy_Trails) 
 - JavaScript
 - React
 - Python
