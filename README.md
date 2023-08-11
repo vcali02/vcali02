@@ -60,7 +60,7 @@ I'm eager to connect with software and technology professionals, collaborate on 
     <td class="tg-0pky">![micelio](https://github.com/vcali02/vcali02/assets/122405969/ae662341-13b4-4f9c-9059-251b327a765c)
  </td>
     <td class="tg-0pky"><a href="https://github.com/vcali02/micelio" target="_blank" rel="noopener noreferrer">Repo</a><br>
-      ![JS_ICON](https://github.com/vcali02/vcali02/assets/122405969/f5635d91-f3fc-40e2-b880-dc8115179ea9)
+      <img src="![JS_ICON](https://github.com/vcali02/vcali02/assets/122405969/f5635d91-f3fc-40e2-b880-dc8115179ea9)"></img>
       ![REACT_ICON](https://github.com/vcali02/vcali02/assets/122405969/01d4a3c6-c096-4528-9568-88fc6e289135)
       ![PY_ICON](https://github.com/vcali02/vcali02/assets/122405969/52cf2c3f-f64e-4abc-9ef1-a275cd168902)
       ![FLASK_ICON](https://github.com/vcali02/vcali02/assets/122405969/651b6184-04eb-4481-a09f-16167e326458)
