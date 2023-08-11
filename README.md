@@ -57,7 +57,7 @@ I'm eager to connect with software and technology professionals, collaborate on 
   <tr>
     <td class="tg-0pky">Happy Trails</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=g_8xGVR43OQ" target="_blank" rel="noopener noreferrer">Demo</a><br><br><span style="font-weight:400;font-style:italic">Hiking trails app facilitating users to find suitable hikes.</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img src="happy_trails.png" /></td>
     <td class="tg-0pky"><a href="https://github.com/vcali02/Happy_Trails" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-React<br>-Python<br>-Flask<br>-Material UI<br>-CSS</td>
     <td class="tg-0pky"><br><span style="font-weight:400;font-style:normal">-User can make an account, log in, and log out</span><br>-Users can search for trails to hike based on location and user preferences<br><span style="font-weight:400;font-style:normal">-User can mark trails as "Hiked"</span><br><span style="font-weight:400;font-style:normal">-Users can view information about each trail</span><br></td>
   </tr>
@@ -71,7 +71,7 @@ I'm eager to connect with software and technology professionals, collaborate on 
   <tr>
     <td class="tg-0pky">Smash or Trash</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=7v81tOzrDYk" target="_blank" rel="noopener noreferrer">Demo</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Movie app for users to view, review, and set favorite movies.</span></td>
-    <td class="tg-0pky"> <img src="happy_trails.png" /></td>
+    <td class="tg-0pky"> </td>
     <td class="tg-0pky"><a href="https://github.com/dxyz773/smash-or-trash" target="_blank" rel="noopener noreferrer">Repo</a><br><br>-JavaScript<br>-CSS<br></td>
     <td class="tg-0pky">-User can click the movie poster to display movie details <br>-User can double click the like to add a like<br>-User can double click the dislike to add a dislike<br>-User can submit a favorite movie to the page using a form<br>-User can add a comment to a movie </td>
   </tr>
